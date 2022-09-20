@@ -1,2 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "This School is os cool!"
+echo "Best School"
+>>>>>>> update_script
